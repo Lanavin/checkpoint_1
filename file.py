@@ -15,3 +15,5 @@ b = int(input())
 c = int(input())
 
 print('Максимальное число =', max(a, b, c))
+
+#edit1
